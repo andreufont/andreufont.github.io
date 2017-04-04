@@ -1,3 +1,3 @@
-## Welcome to my personal webpage
+## Welcome to my personal web page
 
 Under construction...
