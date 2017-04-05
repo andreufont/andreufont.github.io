@@ -1,4 +1,4 @@
-<img src="FontRiberaUCL.jpg" width="150" height="200" style="float:right">
+<img src="FontRiberaUCL.jpg" width="100" height="140" style="float:right">
 
 My name is Andreu Font-Ribera, and I'm a cosmologist studying the large scale structure of the Universe. 
 
