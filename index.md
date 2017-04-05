@@ -28,8 +28,8 @@ You can find an exhaustive list of my publications on
 ## Contact information
 
 <script language="JavaScript">
-var username = "[a.font]";
-var hostname = "[ucl.ac.uk]";
+var username = "a.font";
+var hostname = "ucl.ac.uk";
 var linktext = username + "@" + hostname ;
 document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a>");
 </script>
