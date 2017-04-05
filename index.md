@@ -1,3 +1,7 @@
+<head>
+  <title> Personal web page of Andreu Font-Ribera</title>
+</head>
+
 ## Welcome to my personal web page
 
 > Page under construction...
