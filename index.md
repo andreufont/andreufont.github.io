@@ -1,6 +1,6 @@
 ## Welcome to my personal web page (under construction...)
 
-<img align=right src="FontRiberaUCL.jpg" width="104" height="142">
+<img src="FontRiberaUCL.jpg" width="104" height="142">
 
 My name is Andreu Font-Ribera, and I'm cosmologist studying the large scale structure of the Universe. 
 Before moving to University College London (as a Rutherford Fellow) I was at the Institut de Ciencies de l'Espai (Barcelona, 2007-2011), at the University of Zurich (Zurich, 2011-2013) and at the Lawrence Berkeley National Laboratory (Berkeley, 2013-2016).
