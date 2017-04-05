@@ -1,6 +1,6 @@
 ## Welcome to my personal web page (under construction...)
 
-<img src="FontRiberaUCL.jpg" width="104" height="142" style="float:right">
+<img src="FontRiberaUCL.jpg" width="200" height="290" style="float:right">
 
 My name is Andreu Font-Ribera, and I'm cosmologist studying the large scale structure of the Universe. 
 
