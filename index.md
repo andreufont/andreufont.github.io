@@ -1,8 +1,8 @@
 ## Welcome to my personal web page (under construction...)
 
-My name is Andreu Font-Ribera, and I'm Rutherford Fellow at University College London.
-
 <img align=right src="FontRiberaUCL.jpg" width="104" height="142">
+
+My name is Andreu Font-Ribera, and I'm Rutherford Fellow at University College London.
 
 ## Research Interests
 
