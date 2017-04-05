@@ -24,3 +24,12 @@ I'm also heavily involved in the preparations for the
 ## Publications 
 You can find an exhaustive list of my publications on 
 <a href="https://arxiv.org/find/all/1/OR+au:font_ribera+all:+EXACT+font_ribera/0/1/0/all/0/1">arXiv</a>.
+
+## Contact information
+
+<script language="JavaScript">
+var username = "[a.font]";
+var hostname = "[ucl.ac.uk]";
+var linktext = username + "@" + hostname ;
+document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a>");
+</script>
