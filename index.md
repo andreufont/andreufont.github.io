@@ -1,16 +1,8 @@
-<head>
-  <title> Personal web page of Andreu Font-Ribera</title>
-</head>
-
-## Welcome to my personal web page
-
-> Page under construction...
-
-## Who am I?
+## Welcome to my personal web page (under construction...)
 
 My name is Andreu Font-Ribera, and I'm Rutherford Fellow at University College London.
 
-<img src="FontRiberaUCL.jpg" width="104" height="142">
+<img align=right src="FontRiberaUCL.jpg" width="104" height="142">
 
 ## Research Interests
 
