@@ -1,15 +1,19 @@
 <img src="FontRiberaUCL.jpg" width="120" height="170" style="float:right">
 
-My name is Andreu Font-Ribera, and I'm a cosmologist at the Institut de Física d'Altes Energies (IFAE), where I work as a staff scientist. 
+My name is Andreu Font-Ribera, and staff scientitst at the
+<a href="http://www.ifae.es/eng/">Institut de Física d'Altes Energies (IFAE)</a>, in my hometown of Barcelona.
+
 For years my website said that it was under construction, with the hope that one day it would be amazing, but now I accept that it will most likely stay like this for a while.
 
 ## Brief CV
 
-Before moving to IFAE, I was at:
-  * the Institut de Ciencies de l'Espai (Barcelona, 2007-2011)
-  * the University of Zurich (Zurich, 2011-2013)
-  * the Lawrence Berkeley National Laboratory (Berkeley, 2013-2016)
-  * University College London (as a STFC Rutherford Fellow and lecturer, London 2016-2020)
+Before moving to IFAE, I was:
+  * a PhD student at the Institut de Ciencies de l'Espai (Barcelona, 2007-2011)
+  * a postdoc at the University of Zurich (Zurich, 2011-2013)
+  * a postdoc at the Lawrence Berkeley National Laboratory (Berkeley, 2013-2016)
+  * a lecturer at University College London (London 2016-2020)
+
+From 2016 to 2020 I was supported by a STFC Ernest Rutherford Fellowship (grant reference ST/N003853/1) and now I am supported by FSE funds trough the  program Ramon y Cajal (RYC-2018-025210) of the Spanish Ministry of Science and Innovation.
 
 
 ## Research Interests
