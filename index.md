@@ -1,4 +1,6 @@
-<img src="FontRiberaUCL.jpg" width="120" height="170" style="float:right">
+<img src="FontRibera_June2020.jpg" width="120" height="170" style="float:right">
+
+[]: # (<img src="FontRiberaUCL.jpg" width="120" height="170" style="float:right">)
 
 My name is Andreu Font-Ribera, and staff scientitst at the
 <a href="http://www.ifae.es/eng/">Institut de Física d'Altes Energies (IFAE)</a>, in my hometown of Barcelona.
