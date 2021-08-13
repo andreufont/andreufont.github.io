@@ -30,9 +30,8 @@ Our measurements of Baryon Acoustic Oscillations (BAO) at high redshift provide
 very accurate constraints on the expansion history of the Universe. 
 You can find a press release from 2014 
 <a href="http://newscenter.lbl.gov/news-releases/2014/04/07/boss-quasars-measure-expansion">here</a>, 
-and outreach article  
-<a href="http://www.earlyuniverse.org/the-universe-before-dark-energy/">here</a> (in English) 
-and a more recent outreach article <a href="https://github.com/andreufont/andreufont.github.io/blob/master/eBOSS_IyC.pdf">here</a> (in Spanish, published in Investigación y Ciencia). 
+and outreach article
+<a href="http://www.earlyuniverse.org/the-universe-before-dark-energy/">here</a> (in English) and a more recent outreach article <a href="https://github.com/andreufont/andreufont.github.io/blob/master/eBOSS_IyC.pdf">here</a> (in Spanish, published in Investigación y Ciencia). 
 
 I am now co-leading the BAO analysis from the Lyman alpha forest dataset of the 
 <a href="http://desi.lbl.gov">Dark Energy Spectroscopic Instrument (DESI)</a>.
