@@ -24,18 +24,19 @@ In short, I construct 3D maps of the distribution of mass as a function of time,
 
 During the last ten years I have been heavily involved in the cosmological analysis of the <a href="http://www.sdss3.org/surveys/boss.php/">Baryon Oscillation Spectroscopic Survey (BOSS)</a> collaboration, and of its successor 
 <a href="https://www.sdss.org/surveys/eboss/">eBOSS</a>.
-The final results will be published in mid 2020.
+I was one of the main authors of the DR16 BAO results using the Lyman alpha forest dataset, presented in <a href="https://arxiv.org/abs/2007.08995">du Mas des Bourboux et al. (2020)</a>, and of the final cosmological analysis from SDSS, presented in <a href="https://arxiv.org/abs/2007.08991">eBOSS Collaboration et al. (2021)</a>. 
 
 Our measurements of Baryon Acoustic Oscillations (BAO) at high redshift provide 
 very accurate constraints on the expansion history of the Universe. 
 You can find a press release from 2014 
-<a href="http://newscenter.lbl.gov/news-releases/2014/04/07/boss-quasars-measure-expansion">here</a> 
-and a more updated outreach article 
-<a href="http://www.earlyuniverse.org/the-universe-before-dark-energy/">here</a>.
+<a href="http://newscenter.lbl.gov/news-releases/2014/04/07/boss-quasars-measure-expansion">here</a>, 
+and outreach article  
+<a href="http://www.earlyuniverse.org/the-universe-before-dark-energy/">here</a> (in English) 
+and a more recent outreach article <a href="https://github.com/andreufont/andreufont.github.io/blob/master/eBOSS_IyC.pdf">here</a> (in Spanish, published in Investigación y Ciencia). 
 
-I am now chairing the Lyman alpha forest Working Group of the 
+I am now co-leading the BAO analysis from the Lyman alpha forest dataset of the 
 <a href="http://desi.lbl.gov">Dark Energy Spectroscopic Instrument (DESI)</a>.
-Starting in 2021, DESI will try to solve the mistery of Dark Energy, while measuring the mass of the neutrinos, the lightest particles that exist.
+Since May 2021, DESI is trying to solve the mistery of Dark Energy, while measuring the mass of the neutrinos, the lightest particles that exist.
         
 ## Publications 
 You can find an exhaustive list of my publications on 
