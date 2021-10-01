@@ -1,6 +1,6 @@
 <img src="FontRibera_Jan2021.jpg" width="220" height="200" style="float:right">
 
-My name is Andreu Font-Ribera, and staff scientitst at the
+My name is Andreu Font-Ribera and I am a staff scientitst at the
 <a href="http://www.ifae.es/eng/">Institut de Física d'Altes Energies (IFAE)</a>, in my hometown of Barcelona.
 
 For years my website said that it was under construction, with the hope that one day it would be amazing, but now I accept that it will most likely stay like this for a while.
