@@ -13,8 +13,9 @@ Before moving to IFAE, I was:
   * a postdoc at the Lawrence Berkeley National Laboratory (Berkeley, 2013-2016)
   * a lecturer at University College London (London 2016-2020)
 
-From 2016 to 2020 I was supported by a STFC Ernest Rutherford Fellowship (grant reference ST/N003853/1) and now I am supported by FSE funds trough the  program Ramon y Cajal (RYC-2018-025210) of the Spanish Ministry of Science and Innovation.
+From 2016 to 2020 I was supported by a STFC Ernest Rutherford Fellowship (grant reference ST/N003853/1) and since 2020 I am supported by a Ramon y Cajal fellowship (RYC-2018-025210) of the Spanish Ministry of Science and Innovation.
 
+Recently, <a href="https://www.ifae.es/news/2022/03/17/erc-consolidator-grant-awarded-to-andreu-font-ribera/"> I have been awarded an ERC Consolidator Grant</a> for the project COSMO-LYA, where I plan to use a large dataset of distant quasars to study some of the mysteries of our Universe: dark energy, inflation, and the mass of neutrinos.
 
 ## Research Interests
 
